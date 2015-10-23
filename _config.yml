@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://asfaltboy.github.io
 title: Pavel Savchenko
-tagline: A log of everyday life
-description: My awesome new site
+tagline: blogging Python and more
+description: root logging life
 paginate: 5
