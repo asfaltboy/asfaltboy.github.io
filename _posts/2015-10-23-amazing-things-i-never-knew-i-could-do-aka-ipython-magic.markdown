@@ -2,6 +2,7 @@
 published: true
 title: Amazing things I never knew I could do (aka IPython magic)
 layout: post
+tags: [ipython, magic]
 ---
 ## Edit an object code
 
@@ -9,7 +10,6 @@ layout: post
     In [2]: %edit -x requests.Session
 
 ![screenshot-from-shell](http://i.imgur.com/CeiDPcAl.png)
-[Imgur]()
 
 By default (without `-x` param) IPython will execute the code after exiting.
 See the [edit magic documentation](https://ipython.org/ipython-doc/3/interactive/magics.html#magic-edit)
