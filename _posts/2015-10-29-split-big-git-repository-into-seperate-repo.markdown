@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Split big git repository into seperate repo
 layout: post
 ---
