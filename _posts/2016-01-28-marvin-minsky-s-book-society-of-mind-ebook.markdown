@@ -15,7 +15,6 @@ Unfortunately, the only online version I could find was a [CC licensed HTML form
 And so I took on the task of converting the HTML pages to some ebook formats, mainly so I could read it on my kindle.
 
 The technical feat itself was not complex at all; basically, I passed the TOC page to quick & dirty [spideyscrape.py](https://github.com/paultopia/spideyscrape), and then cleaned up the resulting "one page HTML" from any "per-page" headers/footers, fixed up chapter linking and downloaded the images.
-
-For whoever is interested, the [repo of the cleanup is here](https://github.com/asfaltboy/SocietyOfMind-ebook). The books are available in the same repo, [under releases](https://github.com/asfaltboy/SocietyOfMind-ebook/releases).
-
 The actual ebooks were generated from the HTML with the use of [the excellent calibre app](http://calibre-ebook.com/).
+
+For whoever is interested, the [repo of the cleanup is here](https://github.com/asfaltboy/SocietyOfMind-ebook). The books are available in the same repo, in Epub, Mobi and PDF formats, [under releases](https://github.com/asfaltboy/SocietyOfMind-ebook/releases).
