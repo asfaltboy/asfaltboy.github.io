@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/psav
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://asfaltboy.github.io
+  * I am psav (https://keybase.io/psav) on keybase.
+  * I have a public key ASDxF_wNcAkMRJscntEXV4qGrYrPatF1SjhAxlyFigkNtQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f117fc0d70090c449b1c9ed117578a86ad8acf6ad1754a3840c65c858a090db50a",
+      "host": "keybase.io",
+      "kid": "0120f117fc0d70090c449b1c9ed117578a86ad8acf6ad1754a3840c65c858a090db50a",
+      "uid": "7f7f7f36d74384a990c177e2ccb6a219",
+      "username": "psav"
+    },
+    "merkle_root": {
+      "ctime": 1583054618,
+      "hash": "1fbbd69ebd9dc053cb6541a8675331af405dc11db0ac13828aba6c5ec2f99e79c66639a8bfc6590ac753499744492ed2ab7b85c06e17a8253c2c1187047c9166",
+      "hash_meta": "def52294d8672c75e604619f6dfe2831a34d26b7b75df0cb74f1cc6a3a333770",
+      "seqno": 14858204
+    },
+    "service": {
+      "entropy": "olq22IUQpdjYRAdaNFh+hZun",
+      "hostname": "asfaltboy.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.1"
+  },
+  "ctime": 1583054675,
+  "expire_in": 504576000,
+  "prev": "cfb6b0d34825c4f1394e03c6ad6250f41029cf6aae51f8ed650bd7778d7f9875",
+  "seqno": 32,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg8Rf8DXAJDESbHJ7RF1eKhq2Kz2rRdUo4QMZchYoJDbUKp3BheWxvYWTESpcCIMQgz7aw00glxPE5TgPGrWJQ9BApz2quUfjtZQvXd41/mHXEIPcL2zUKL5pvCUwyIQkv4EgYL974f6fl+/FXFxzXc6sGAgHCo3NpZ8RA93qxLi8V2wVr9RzHuwSgCTcP28pZ99jeSzlIAdXDJ0XwdMFuWfbNsU1fktQNcZafXrTk7sca3MnN/1RKPYlvBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIA4fGipz0c7cmfubqzCABBeAlBzZiKdkSdOXaqOXaV3do3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/psav
+
+==================================================================
